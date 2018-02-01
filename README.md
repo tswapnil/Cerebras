@@ -35,3 +35,42 @@ accuracy is 0.956 - hits 478
 accuracy is 0.958 - hits 479
 
 accuracy is 0.958 - hits 479 
+
+Following are the results on test Data Set - 
+
+accuracy is 0.9481
+hits 9481
+
+accuracy is 0.9556
+hits 9556
+
+accuracy is 0.9595
+hits 9595
+
+accuracy is 0.9608
+hits 9608
+
+accuracy is 0.9624
+hits 9624
+
+accuracy is 0.9636
+hits 9636
+
+accuracy is 0.9643
+hits 9643
+
+accuracy is 0.9648
+hits 9648
+
+accuracy is 0.9647
+hits 9647
+
+accuracy is 0.9652
+hits 9652
+
+accuracy is 0.9658
+hits 9658
+
+accuracy is 0.9655
+hits 9655
+
